@@ -2,8 +2,8 @@ package com.idea.remote;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.github.zhangkaitao.shiro.chapter23.remote.PermissionContext;
-import com.github.zhangkaitao.shiro.chapter23.remote.RemoteServiceInterface;
+import idea.shiro.core.remote.PermissionContext;
+import idea.shiro.core.remote.RemoteServiceInterface;
 
 import com.idea.service.AuthorizationService;
 
