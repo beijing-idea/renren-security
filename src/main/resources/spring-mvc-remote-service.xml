@@ -12,6 +12,6 @@
 
     <bean name="/remoteService" class="org.springframework.remoting.httpinvoker.HttpInvokerServiceExporter">
         <property name="service" ref="remoteService"/>
-        <property name="serviceInterface" value="idea.shiro.core.remote.RemoteServiceInterface"/>
+        <property name="serviceInterface" value="idea.shiro.core.RemoteServiceInterface"/>
     </bean>
 </beans>
