@@ -7,8 +7,8 @@
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
 		<param-value>
-			classpath:spring-renren.xml
-		</param-value>
+            classpath:spring-renren-idea.xml
+        </param-value>
 	</context-param>
 	
 	<context-param>
